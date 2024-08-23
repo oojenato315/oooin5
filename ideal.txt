@@ -15,7 +15,10 @@ Tôi muốn xin feedback của bạn về kết quả công việc của tôi v�
 Bởi tôi cũng đã trải qua hơn 2 tháng thử thách ở vị trí mới, tính từ ngày 2024/06/19 - theo lịch sử thay đổi chức danh ở bộ phận HR.
 Vì vậy, tôi muốn xin phê duyệt chính thức chức danh công việc của tôi là Trưởng phòng Cloud service & Management.
 Đồng thời tôi cũng xin phê duyệt điều chỉnh mức lương của tôi do có thay đổi về khối lượng và phạm vi công việc - như theo quy định của công ty (Mục III.1.1 - General internal regulations apply to T4, T5, T6 level)
+<<<<<<< HEAD
+=======
 Tất nhiên con số điều chỉnh còn phải thảo luận với bộ phận HR và bạn sau này, khi mà HR yêu cầu tôi ký phụ lục hợp đồng lao động.
+>>>>>>> 3eb68c55d0067ad73cf2894bbf2a69ef7f76a0bb
 
 Ngoài ra, nguyên nhân tôi đề xuất điều chỉnh mức lương do:
 - chưa được điều chỉnh lương lần nào từ khi gia nhập công ty từ 2022-Feb
